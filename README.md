@@ -1,1 +1,1 @@
-# adblockrules
+# AdGuard
