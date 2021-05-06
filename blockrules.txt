@@ -911,6 +911,43 @@ zhihu.com###root > div > main.App-main:nth-child(3) > div.QuestionPage > div.Que
 travel.qunar.com##link rel="alternate" media="only screen and(max-width: 640px)":nth-child(2) > div.q_skin:nth-child(4) > div.container.main-container:nth-child(2) > div.b_hot_strategy.elselikelook:nth-child(2)
 bilibili.com###bili_report_live > div.live-tabs:last-child
 163.com##div.N-nav-bottom:nth-child(11)
-zhidao.baidu.com###wgt-related
-zhidao.baidu.com##div.wgt-footer-new:nth-child(13) > div.footer-wp:first-child > ul.footer-list.clearfix
-zhidao.baidu.com###qb-side > div.cms-slide.cms-slide-lazy.mod-noshadow:nth-child(2)
+video.sina.com.cn##div.F_wrap:nth-child(5) > div.F_con.clearfix:nth-child(9) > div.F_asid:nth-child(8)
+finance.sina.com.cn###article_content > div.article-content-left:first-child > div.blk-wxfollow.clearfix:nth-child(6)
+news.sina.com.cn###article-bottom > div.btns > a.btn-icon.btn-feedback
+sina.com.cn##div.top-search-wrap:nth-child(15) > div.top-search-frame.clearfix
+finance.sina.com.cn###artibody > div.clearfix.appendQr_wrap:nth-child(41)
+finance.sina.com.cn###topSearch
+finance.sina.com.cn###sina-header
+auto.sina.com.cn###wap_articleContentRight
+auto.sina.com.cn###bottom_sina_comment > div.sina-comment-form.sina-comment-top:first-child
+auto.sina.com.cn###bottom_sina_comment > div.sina-comment-list.sina-comment-list-has-all.sina-comment-list-has-hot.sina-comment-list-has-latest:last-child > div.hot-wrap:first-child > div.list:last-child
+auto.sina.com.cn###bottom_sina_comment > div.sina-comment-list.sina-comment-list-has-all.sina-comment-list-has-hot.sina-comment-list-has-latest:last-child
+auto.sina.com.cn###tycard_list > div.cardlist-a__list:nth-child(2)
+auto.sina.com.cn###article_content > div.article-content-left.fL:first-child > div.blk-wxfollow.clearfix:nth-child(6)
+auto.sina.com.cn###article_content > div.article-content-left.fL:first-child > div.pagination.clearfix:nth-child(5)
+auto.sina.com.cn###tab_related
+auto.sina.com.cn###top_bar > div.top-bar-inner.clearfix > div.page-tools:last-child
+breitbart.com###SideW
+breitbart.com###FootW
+breitbart.com###dsq-app2648
+breitbart.com###dsq-app8915
+wsj.com###series-nav-wArGq2eu
+1point3acres.com###pid15371697 > tbody > tr:first-child > td.plc:last-child > div.pct:nth-child(2) > div.pcb:last-child > div.bg-\#f6f6f6.flex.justify-between.h-48.p-4.mb-2:nth-child(6)
+news.sina.com.cn###search_type_div > div.ds_cont:first-child > div.ds_title:first-child
+news.sina.com.cn##div.main-content.w1240:nth-child(8) > div.path-search:nth-child(2)
+world.people.com.cn##div.clearfix.w1000_320.text_con:nth-child(8) > div.fr.text_con_right:last-child
+world.people.com.cn##div.clearfix.w1000_320.text_title:nth-child(7) > div.box01:last-child
+world.people.com.cn###rwb_jctj > div.clearfix.box_piclist
+world.people.com.cn###rwb_tjyd > div.clearfix.box_read
+world.people.com.cn##div.clearfix.w1000_320.text_con:nth-child(8) > div.fl.text_con_left:first-child > div.clearfix.box_news.box_newszt:nth-child(4)
+world.people.com.cn###rwb_xgxw > div.clearfix.box_news
+geekwire.com##div.wrap.container:nth-child(7) > div.content.row:last-child > main.main > article.post-425755.post.type-post.status-publish.format-standard.has-post-thumbnail.hentry.category-cloud.category-microsoft.tag-jason-zander.tag-microsoft-azure:first-child > div.row:last-child > aside.col-md-4.post-sidebar:last-child
+geekwire.com###news-stream > ul
+###left_newsfeed
+splashtop.com###black-studio-tinymce-26 > div.textwidget > div.newsletter-signup:first-child
+splashtop.com###black-studio-tinymce-26 > div.textwidget > div.container-fluid:nth-child(2) > div.menu-content.row:first-child > div.col-md-8.desktop-only:first-child
+splashtop.com###black-studio-tinymce-26 > div.textwidget > div.container-fluid:nth-child(2) > div.menu-content.row:first-child
+splashtop.com###post-11943 > div.blog-bottom-banner:last-child > a > img
+splashtop.com###footer
+splashtop.com###blog-right-bar
+blog.foundersuite.com###site-main > div.inner > article.post-full.post.tag-how-i-raised-it-podcast.tag-raising-capital.tag-fundraising-tactics-for-startups > section.subscribe-form:last-child
