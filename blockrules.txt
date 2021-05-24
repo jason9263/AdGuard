@@ -1108,3 +1108,82 @@ wsj.com###wsj-article-wrap > div.is-lead-inset:nth-child(3) > div.media-object.t
 wsj.com###full-header > div > div > div > div.WSJTheme--market-data-1PYRZ0cmQ3Y-A3ADYL-Scu:nth-child(2)
 wsj.com###wsj-article-wrap > div.article-content:last-child > div.paywall:nth-child(4) > div.media-object.type-InsetRichText.inline.scope-web\|mobileapps.article__inset.article__inset--type-InsetRichText.article__inset--inline:nth-child(22) > div.media-object-rich-text
 wsj.com###wsj-article-wrap > div.is-lead-inset:nth-child(3) > div.media-object.type-InsetMediaIllustration.header.article__inset.article__inset--type-InsetMediaIllustration.article__inset--header.article__inset--lead > figure.media-object-image.enlarge-image.renoImageFormat-.img-header.article__inset__image
+1point3acres.com###pid15151618 > tbody > tr:first-child > td.plc:last-child > div.pct:nth-child(2) > div.pcb:last-child > div.t_fsz:nth-child(7) > div.w-500px.lg\:w-550px.bg-\#fafafa.p-6.mt-5:nth-child(2)
+msn.com##div.normalsection:nth-child(10) > div.full-width > div.sectioncontent
+##.head
+infoq.cn###layout > div.header.common-header-pc.layout-header:first-child > div.layout-content.header-content:last-child > div.nav-search-wrap.is-overflow:nth-child(2)
+infoq.cn###layout > div.header.common-header-pc.layout-header:first-child > div.layout-content.header-content:last-child
+ma.ttias.be##footer.footer-curved.mt-24:nth-child(4)
+ma.ttias.be###content > div.container.w-full.md\:max-w-4xl.mx-auto.mt-8:last-child > div.w-full.px-4.md\:px-6.text-xl.text-gray-800.leading-normal > div.content.comments.border.rounded-lg.mt-12.overflow-hidden:last-child > div.w-full.pr-4.bg-blue-300.p-4.px-8
+163.com###content > div.post_body:nth-child(2) > p.f_center:nth-child(50)
+163.com###js_index2017_wrap > div:nth-child(2) > div.ne_area.ne_index_area:nth-child(2) > div.cm_area.cm_area_mt.ns_area_home.cm_area_show:nth-child(13) > div.col_lm:first-child > div > div.cm_channel_tab:last-child > div.tab_main:last-child > div.tab_panel.current:first-child > div.col_l:first-child > div.cm_bigimg:first-child
+sina.com.cn###syncad_0 > ul.list-a.news_top:first-child > li:nth-child(2)
+sina.com.cn###syncad_0 > ul.list-a.news_top:first-child > li:first-child
+finance.sina.com.cn###app_viplive > div > div:first-child > div.slider-item:nth-child(8) > img:first-child
+finance.sina.com.cn###app_viplive > div > div:first-child > div.slider-item:nth-child(9)
+finance.sina.com.cn###app_viplive > div > div:first-child
+163.com###js_index2017_wrap > div:nth-child(2) > div.ne_area.ne_index_area:nth-child(2) > div.cm_area.ns_area_first:nth-child(4) > div.col_lm:first-child > div.col_c.overflowh:nth-child(2) > div.mod_top_news > div.mod_news_tab:last-child > div.tab_main.clearfix:last-child > div.tab_panel.tab_panel_yaowen.current:first-child > div.yaowen_news:first-child > div.news_default_yw.news_yw_show:last-child > ul.cm_ul_round:first-child
+open.163.com###__layout > div.main > div.m-main:nth-child(3) > div.m-courseinfo:last-child > div.m-courseinfo__side:last-child > div.i-container
+open.163.com###__layout > div.main > div.m-main:nth-child(3) > div.m-courseinfo:last-child
+open.163.com###__layout > div.main > div:nth-child(2) > div.open-pcnuxt-pageside-toolbox:first-child
+open.163.com###__layout > div.main > div.open-footer:last-child
+open.163.com###__layout > div.main > div.m-main:nth-child(3) > div.m-main__videobox:first-child > div.t-container:first-child > div.t-container__link:first-child
+smart2zero.com##div.main-container.container:nth-child(10) > div.row:last-child > aside.col-sm-4:last-child
+smart2zero.com###dsq-app1116
+smart2zero.com##div.main-container.container:nth-child(10) > div.row:last-child > section.col-sm-8:nth-child(2) > div.col-sm-12.hidden-print:last-child
+wsj.com###webui-footer > div > div > footer.style--footer-B4dO5BpjUygOGVhMmUecq.style--light-3JGOWaGotE-VzagsTm2_J1
+kmw.com##div.main:nth-child(4) > div.wp > div.row-g1 > div.m-boxg1.m-boxg2 > div.col-r:last-child
+wsj.com###coral_talk_SB10411178637797994419804587462942652332940_iframe
+infoq.cn###layout > div.inner-content:nth-child(2) > div.article-content-layout.layout-content.ready:nth-child(2) > div.content-main:nth-child(2) > div.article-main:first-child > div.article-content-wrap:nth-child(2) > div.article-cover:first-child > img
+infoq.cn###layout > div.inner-content:nth-child(2) > div.article-content-layout.layout-content.ready:nth-child(2) > div.content-main:nth-child(2) > div.article-main:first-child > div.article-content-wrap:nth-child(2) > div.article-cover:first-child
+dacast.com###article_content > div.sticky_wrap:last-child > div.free_trial_nav:last-child > div.sticky-wrap > div.free_trial
+mp.weixin.qq.com###js_content > p:nth-child(122)
+mp.weixin.qq.com###js_content > p:nth-child(140)
+163.com###js_index2017_wrap > div:nth-child(2) > div.ne_area.ne_index_area:nth-child(2) > div.cm_area.mt40.ns_area_synthesis.cm_area_show:nth-child(17) > div.col_lm:first-child > div.mod_ntes_stock.mt30:nth-child(2)
+bilibili.com###activity_vote > div.inside-wrp > div.left:first-child
+bronx.news12.com###twitter-widget-0
+bronx.news12.com###__next > footer.jsx-3031816540.main-footer:nth-child(6)
+bronx.news12.com###__next > div.renderable.article:nth-child(2) > div.container.horizontal.normal > div.section.section-2f60911593dc7951075e15346619d72f:last-child
+bronx.news12.com###__next > header.jsx-3169046314.jsx-1843013747.jsx-1812792641:first-child > div.jsx-3169046314.jsx-1843013747.jsx-1812792641 > div.jsx-3169046314.jsx-1843013747.jsx-1812792641.wrapper
+mp.weixin.qq.com###js_content > section:nth-child(113) > section > section
+mp.weixin.qq.com###js_content > p:first-child > img.__bg_gif
+mp.weixin.qq.com###js_content > section:nth-child(2)
+news.sina.cn###subject_main > section.new-cmnt-wensen:nth-child(8) > div.Card_discuss
+mp.weixin.qq.com###js_content > h2:nth-child(5) > section > section:nth-child(3) > img.rich_pages
+vox.com##div.l-root.l-reskin:nth-child(5) > div.c-recirc-module:nth-child(6) > div.c-recirc-module__wrapper:first-child
+vox.com##div.l-root.l-reskin:nth-child(5) > footer.c-footer:nth-child(9)
+vox.com##div.l-root.l-reskin:nth-child(5) > div.c-recirc-module:nth-child(6) > a.c-recirc-module__view-more:last-child
+levels.fyi##div.notification-droplet.bg-notification-yellow:nth-child(4)
+news.sciencenet.cn###mright
+infoq.cn###layout > div.inner-content.had-notice:nth-child(2) > div.article-content-layout.layout-content.ready:nth-child(2) > div.content-main:nth-child(2) > div.comment-container:nth-child(2) > div.article-comment-block > div.comment-list
+infoq.cn###layout > div.header.common-header-pc.layout-header.had-notice:first-child > div.header-notice:nth-child(2)
+xie.infoq.cn###layout > div.inner-content:nth-child(2) > div.layout-content.article-content > div.main:nth-child(2) > div.article-detaile:nth-child(4) > div.article-preview-content.size-base > div.article-preview:first-child > div.ProseMirror > div:nth-child(264) > div > img
+xie.infoq.cn###layout > div.inner-content:nth-child(2) > div.layout-content.article-content > div.main:nth-child(2) > div.article-detaile:nth-child(4) > div.article-preview-content.size-base > div.article-preview:first-child > div.ProseMirror > div:nth-child(262)
+xie.infoq.cn###layout > div.inner-content:nth-child(2) > div.layout-content.article-content > div.main:nth-child(2) > div.com-author-card.author-info:nth-child(8) > div.author-card
+163.com###content > div.related_article:nth-child(3)
+163.com###content > div.post_body:nth-child(2) > p:nth-child(9)
+finance.sina.com.cn###app_viplive > div > div:last-child
+finance.sina.com.cn###article_content > div.article-content-left:first-child > div.blk-wxfollow.clearfix:nth-child(19)
+finance.sina.com.cn###article_content > div.article-content-left:first-child > div.app-viplive:nth-child(16) > div.cj-l-title:first-child
+finance.sina.com.cn###artibody > div.clearfix.appendQr_wrap:nth-child(34)
+news.sina.com.cn###article > div.wap_special:nth-child(41)
+c.biancheng.net###ad-arc-top > p.text:last-child
+blog.csdn.net###mainBox > main:first-child > div.recommend-box.insert-baidu-box:nth-child(14)
+blog.csdn.net###mainBox > main:first-child > div.comment-box:nth-child(12) > div.comment-edit-box.d-flex:first-child
+blog.csdn.net###mainBox > main:first-child > div.second-recommend-box.recommend-box:nth-child(10)
+jianshu.com###__next > div._21bLU4._3kbg6I:nth-child(2) > div._3VRLsv > div._gp-ck:first-child > section.ouvJEz:first-child > div.rEsl9f:nth-child(2)
+jianshu.com###__next > div._21bLU4._3kbg6I:nth-child(2) > div._3VRLsv > div._gp-ck:first-child > section.ouvJEz:first-child > div.d0hShY:last-child
+jianshu.com###__next > div._27yofX:nth-child(4) > div.TlIPNx:last-child
+mp.weixin.qq.com###js_content > section:nth-child(79) > img.rich_pages:first-child
+mp.weixin.qq.com###js_content > section:nth-child(67) > section
+mp.weixin.qq.com###js_content > section:nth-child(82)
+mp.weixin.qq.com###js_content > section:nth-child(83) > span
+mp.weixin.qq.com###js_content > section:nth-child(81)
+mp.weixin.qq.com###js_content > section:nth-child(69)
+nowjava.com###react-root > div:first-child > div.J-footer.nj-com-footer.large-width:last-child
+nowjava.com###react-root > div:first-child > div.J-body.col-body.pg-article:nth-child(2) > section.col-article:nth-child(5) > div.com-widget-operations:last-child
+nowjava.com###react-root > div:first-child > div.J-body.col-body.pg-article:nth-child(2) > div.com-media.col-column-media.shortcut:last-child
+modb.pro###__layout > section.el-container.app.app_page > div.emcs-container.homePage-container:nth-child(2) > div.emcs-main-box > div.emcs-page-content:last-child > div.other-box.p-hide:last-child
+modb.pro###__layout > section.el-container.app.app_page > div.footer_bottom:nth-child(3)
+modb.pro###__layout > section.el-container.app.app_page > div.emcs-container.homePage-container:nth-child(2) > div.emcs-main-box > div.emcs-page-content:last-child > div.main-box:first-child > div.mt10.emcs-table:nth-child(2)
+modb.pro###__layout > section.el-container.app.app_page > div.emcs-container.homePage-container:nth-child(2) > div.emcs-main-box > div.float-btn-group:first-child
