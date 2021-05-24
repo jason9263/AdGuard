@@ -1187,3 +1187,13 @@ modb.pro###__layout > section.el-container.app.app_page > div.emcs-container.hom
 modb.pro###__layout > section.el-container.app.app_page > div.footer_bottom:nth-child(3)
 modb.pro###__layout > section.el-container.app.app_page > div.emcs-container.homePage-container:nth-child(2) > div.emcs-main-box > div.emcs-page-content:last-child > div.main-box:first-child > div.mt10.emcs-table:nth-child(2)
 modb.pro###__layout > section.el-container.app.app_page > div.emcs-container.homePage-container:nth-child(2) > div.emcs-main-box > div.float-btn-group:first-child
+forbes.com###article-stream-1 > div.article-wrapper:nth-child(2) > div.body-container:nth-child(2) > div.article-body-container:last-child > div.article-body.fs-article.fs-responsive-text.current-article:first-child > div.embed-base.finds-module-embed.embed-7:nth-child(11)
+mp.weixin.qq.com###js_content > p:first-child > img.rich_pages
+finance.sina.com.cn##div.fc_sidebar.fc_sidebar_s:nth-child(12) > div.fc_s_list:first-child
+finance.sina.com.cn###article_content > div.article-content-left:first-child > div.blk-wxfollow.clearfix:nth-child(10)
+finance.sina.com.cn###artice_bottom_slider_dot
+edition.cnn.com###footer-nav-container > div.Grid-sc-1kcyc0j-0.hFujui:nth-child(2) > div.Cell-i0zvfi-0.dxrNOP > div.Box-sc-1fet97o-0.sc-cMljjf.ZRIOe > nav.sc-jzJRlG.dkoMrm > ul.sc-cSHVUG.gWEcfQ
+edition.cnn.com###footer-nav-container
+www-theglobeandmail-com.cdn.ampproject.org###bottom-furniture-area > div.pb-container > footer.c-footer
+www-theglobeandmail-com.cdn.ampproject.org##div.amp-header:nth-child(4)
+guyuehome.com##div.main:nth-child(4) > div.container > div.floor > div.main-right:last-child
