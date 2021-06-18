@@ -1395,3 +1395,83 @@ propublica.org###site-footer > div.site-footer__section-newsletter:first-child
 github.com##div.application-main:nth-child(6) > main.font-mktg > div.readme-project-content.readme-project-content--features.js-details-container:last-child > div.my-10.my-md-11:last-child > div.p-responsive-readme
 github.com##div.application-main:nth-child(6) > main.font-mktg > div.readme-project-content.readme-project-content--features.js-details-container:last-child > div.color-bg-primary.py-5.py-md-6:nth-child(5) > div.container-readme.p-responsive-readme
 github.com###about-the-readme-project > div.p-responsive-readme
+bilibili.com###bili_report_knowledge > div.rank-list:last-child
+bilibili.com###bili_report_tech > div.rank-list:last-child
+bilibili.com###bili_report_life > div.rank-list:last-child
+bilibili.com###bili_report_cinephile > div.rank-list:last-child
+bilibili.com###bili_report_documentary > div.pgc-rank:last-child
+vanityfair.com###app-root > div.page.page-theme-standard.page--article > div.sc-pNWdM.sc-hBMUJo.lfZoIg.wnuBm.sc-knSFqH.bPDlFG.page__site-footer:last-child
+vanityfair.com###main-content > div.content-footer:last-child > div.content-footer__bottom:last-child > div.recirc-list-wrapper.viewport-monitor-anchor:nth-child(5) > div.sc-pNWdM.sc-hBMUJo.lfZoIg.wnuBm.content-footer__related > div.grid.grid-margins.grid-items-0.summary-collection-grid.sc-ojivU.ZYDAj.recirc-list__items.summary-collection-grid--four-columns.summary-collection-grid--TextBelowLeft
+vanityfair.com###app-root > div.page.page-theme-standard.page--article > div.sc-pNWdM.sc-hBMUJo.bGTRUw.wnuBm:nth-child(12) > div.sc-iCoGMd.eilRWe.consumer-marketing-unit.consumer-marketing-unit--cm-footer > div.journey-unit:last-child
+vanityfair.com###main-content > article.article.main-content:first-child > div.content-background:last-child > div > div.article__chunks:first-child > div.grid.grid-margins.grid-items-2.grid-layout--adrail.narrow.wide-adrail:first-child > div.grid--item.grid-layout__aside:last-child > div.sc-iiBnNu.fzXsBr.sticky-box > div.sc-dYXZXt.jzZUwL.sticky-box__primary:first-child
+163.com###content > div.post_body:nth-child(2) > p:last-child
+coindesk.com###__next > div:last-child > main:nth-child(2) > section.default.global-content > div.price-page > div.container:nth-child(2) > section.video-list-stack-wrapper.dark
+olevod.com###pinglun > div.mac_comment.comm_list.comm_list_box:nth-child(2)
+ly.com###footer
+ly.com###pinglunTop
+blog.tripplus.cc###respond
+blog.tripplus.cc###copyright
+blog.tripplus.cc###content > div.center > div.single_wrap:first-child > div.single_post > div.comments_template:last-child
+nytimes.com###story > section.meteredContent.css-1r7ky0e:nth-child(4) > div.related-links-block.css-1j2g5xc.epkadsg3:last-child
+nytimes.com###story > div.css-1wspfld:nth-child(6)
+nytimes.com###story > div.bottom-of-article:nth-child(5)
+nytimes.com###bottom-wrapper
+nytimes.com###app > div > div > div:last-child > footer.css-1e1s8k7:last-child > nav.css-15uy5yv
+zhihu.com###QuestionAnswers-answers > div.Card.AnswersNavWrapper > div.ListShortcut > div.List > div:last-child > div > div.List-item:nth-child(5) > div.ContentItem.AnswerItem > div.RichContent.RichContent--unescapable:nth-child(8) > div.RichContent-inner:first-child > span.RichText.ztext.CopyrightRichText-richText > figure:nth-child(4) > img.origin_image.zh-lightbox-thumb.lazy:last-child
+money.163.com###index2016_wrap > div.idx_wrap960 > div.index2016_content:nth-child(8) > div.idx_header:nth-child(2) > div.idx_header_stock.clearfix:last-child > div.yanjiuju_qingliu.clearfix:nth-child(2)
+blog.csdn.net###mainBox > main:first-child > div.first-recommend-box.recommend-box:nth-child(9)
+blog.csdn.net###mainBox > main:first-child > div.comment-box:nth-child(12) > div.comment-list-container:last-child > div.comment-list-box:nth-child(2)
+blog.csdn.net###mainBox > main:first-child > div.comment-box:nth-child(12) > div.comment-list-container:last-child > div.opt-box.text-center:last-child
+blog.csdn.net###mainBox > main:first-child > div.recommend-tit-mod:nth-child(13)
+tungjen.designband.org###sinatra-footer > div.si-container
+tungjen.designband.org###si-pre-footer
+tungjen.designband.org###post-1536 > div.entry-content.si-entry:first-child > div.yarpp.yarpp-related.yarpp-related-website.yarpp-template-thumbnails:last-child > div.yarpp-thumbnails-horizontal:last-child
+tungjen.designband.org###post-1536 > div.entry-footer:nth-child(2)
+finance.sina.com.cn###article_content > div.article-content-left:first-child > div.blk-wxfollow.clearfix:nth-child(14)
+finance.sina.com.cn###article_content > div.article-content-left:first-child > div.app-viplive:nth-child(11) > div.cj-l-title:first-child
+finance.sina.com.cn###artibody > div.clearfix.appendQr_wrap:nth-child(26)
+finance.sina.com.cn###artibody > div.clearfix.appendQr_wrap:nth-child(44)
+nasdaq.com##div.dialog-off-canvas-main-canvas:nth-child(4) > div.page.with-primary-nav > main.page__main:nth-child(4) > div.page__content:last-child > div.layout.quote-detail__component:nth-child(9) > div.quote-detail__full-width-component > div.ads__midpage-fullwidth
+163.com###js_index2017_wrap > div:nth-child(2) > div.ne_area.ne_index_area:nth-child(2) > div.cm_area.ns_area_first:nth-child(4) > div.col_lm:first-child > div.col_c.overflowh:nth-child(2) > div.mod_top_news > div.mod_news_tab:last-child > div.tab_main.clearfix:last-child > div.tab_panel.tab_panel_yaowen.current:first-child > div.yaowen_news:first-child > div.news_default_yw.news_yw_show:last-child > ul.cm_ul_round:nth-child(2) > li:nth-child(3)
+163.com###js_index2017_wrap > div:nth-child(2) > div.ne_area.ne_index_area:nth-child(2) > div.cm_area.ns_area_first:nth-child(4) > div.col_lm:first-child > div.col_c.overflowh:nth-child(2) > div.mod_top_news > div.mod_news_tab:last-child > div.tab_main.clearfix:last-child > div.tab_panel.tab_panel_yaowen.current:first-child > div.yaowen_news:first-child > div.news_default_yw.news_yw_show:last-child > ul.cm_ul_round:nth-child(2) > li:nth-child(2)
+##.site-footer-inner
+nginx.com###page > section.pre-footer-cta-wrapper.solutions-footer-cta:nth-child(5)
+nginx.com###content > div.site-content-inner.inner-wrap > div.blog-sidebar:last-child
+new.qq.com###Comment > div.qq_comment.clearfix
+new.qq.com###GoTop > div.fixed-bar
+new.qq.com###Recomend > div.recommend
+new.qq.com###tcopyright
+finance.sina.com.cn###article_content > div.article-content-left:first-child > div.blk-zcapp.clearfix:nth-child(4) > a > img.zcapp1:first-child
+blog.csdn.net###csdn-toolbar > div.toolbar-advert:first-child > a.toolbar-advert-default:first-child > span.toolbar-advert-more:last-child
+blog.csdn.net###csdn-toolbar > div.toolbar-advert:first-child > a.toolbar-advert-default:first-child > div:first-child
+mp.weixin.qq.com###js_content > section:nth-child(77) > section > section > section:last-child
+mp.weixin.qq.com###js_content > p:nth-child(83)
+mp.weixin.qq.com###js_content > section:nth-child(85) > section > section > section
+mp.weixin.qq.com###js_content > section:nth-child(77) > section > section
+mp.weixin.qq.com###js_content > section:nth-child(87) > section
+finance.sina.com.cn###artibody > div.app-kaihu-qr:nth-child(52)
+finance.sina.com.cn###artibody > div.clearfix.appendQr_wrap:nth-child(54)
+finance.sina.com.cn###article_content > div.article-content-left:first-child > div.article-relzt:nth-child(5)
+163.com###content > div.related_article.related_special:nth-child(14)
+163.com###content > div.post_author:nth-child(15)
+valuepenguin.com###content > article.NodeTypeArticle--root.node-2661.node.node-article.node-full > div.NodeTypeArticle--container:first-child > div.NodeTypeArticle--sidebar:last-child > div.NodeTypeArticle--sidebar-container > div.DynamicSidebar--root > div.DynamicSidebar--block
+valuepenguin.com##div.ReactComponent--root:nth-child(7) > div.js-react-component-rendered.js-react-component-SiteFooter:first-child
+valuepenguin.com###content > article.NodeTypeArticle--root.node-2661.node.node-article.node-full > div.NodeTypeArticle--container:first-child > div.NodeTypeArticle--body:first-child > div.NodeTypeArticle--body-container > div.NodeTypeArticle--author-bio:last-child > div.AuthorBio--root
+valuepenguin.com###content > article.NodeTypeArticle--root.node-2661.node.node-article.node-full > div.NodeTypeArticle--container:first-child > div.NodeTypeArticle--sidebar:last-child > div.NodeTypeArticle--sidebar-container > div.DynamicSidebar--root
+##.Breadcrumbs--root
+valuepenguin.com##section.FooterCallout--root:nth-child(6)
+valuepenguin.com###content > article.NodeTypeArticle--root.node-2661.node.node-article.node-full > div.NodeTypeArticle--container:first-child > div.NodeTypeArticle--sidebar:last-child > div.NodeTypeArticle--sidebar-container
+infoq.com###theCommentsSection
+infoq.com###infoq > main:nth-child(2) > article.article:first-child > section.container.section.white:first-child > div.container__inner > div.columns.article__explore:last-child > div.article__main:first-child > ul.no-style.related__group.nocontent.cards:last-child
+infoq.com###infoq > main:nth-child(2) > article.article:first-child > section.container.section.white:first-child > div.container__inner > div.columns.article__explore:last-child > div.article__main:first-child > div.article__content:nth-child(2) > div.box.box__border:nth-child(17)
+infoq.com###reco_div_1
+infoq.com###infoq > main:nth-child(2) > article.article:first-child > section.container.section.white:first-child > div.container__inner > div.columns.article__explore:last-child > div.article__more.f_article_rightbar:last-child
+infoq.com###infoq > main:nth-child(2) > article.article:first-child > section.container.section.white:first-child > div.container__inner > div.columns.article__explore:last-child > div.article__main:first-child > div.article__content:nth-child(2) > div.widget.article__fromTopic.topics:last-child
+infoq.com###infoq > main:nth-child(2) > article.article:first-child > section.container.section.white:first-child > div.container__inner > div.actions:nth-child(2)
+infoq.com###infoq > header.header:first-child > div.header__container.container:last-child > div.container__inner > div.actions.header__bottom.header__bottom__events:last-child
+infoq.com###infoq > main:nth-child(2) > article.article:first-child > section.container.section.white:first-child > div.container__inner > div.columns.article__explore:last-child > div.article__main:first-child > div.article__metadata.metadata:first-child
+zhuanlan.zhihu.com###root > div.App > main.App-main:nth-child(2) > div.Post-content > article.Post-Main.Post-NormalMain:nth-child(3) > div.Post-RichTextContainer:nth-child(2) > div.RichText.ztext.Post-RichText > figure:nth-child(25)
+mp.weixin.qq.com###js_content > h2:first-child > span > img
+mp.weixin.qq.com###js_content > section:nth-child(29) > mpprofile.js_uneditable > div.appmsg_card_context.wx_profile_card.js_wx_profile_card > div.wx_profile_card_bd:first-child > div.wx_profile.weui-flex
+mp.weixin.qq.com###js_content > p:nth-child(28)
+mp.weixin.qq.com###js_content > section:nth-child(29) > mpprofile.js_uneditable > div.appmsg_card_context.wx_profile_card.js_wx_profile_card > div.wx_profile_card_ft:last-child
