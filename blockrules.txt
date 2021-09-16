@@ -1765,3 +1765,41 @@ newyorker.com###main-content > div.BaseWrap-sc-TwdDQ.ContentFooterWrapper-eNefvj
 newyorker.com###main-content > article.article.main-content:first-child > div.lede-background:first-child > header.content-header.content-header--align-center.content-header--media-fullbleed.content-header--position-above.article__content-header.content-header__caption-style--span-content-well.content-header--publish-date-bottom > div.content-header__container.content-header__container-theme-inverted:first-child > div.lead-asset.lead-asset--landscape.content-header__lead-asset.lead-asset--width-fullbleed.lede-asset--inverted-background:nth-child(3) > figure.lead-asset__content.lead-asset__content-with-caption > div.lead-asset__content__media.lead-asset__content__photo > span.BaseWrap-sc-TwdDQ.SpanWrapper-kGyDFb.hlNbBe.iDbWuK.responsive-asset.lead-asset__media > div.AspectRatioContainer-dgYwEC.cuOGdw
 newyorker.com###app-root > div.BaseWrap-sc-TwdDQ.BasePageWrapper-bQOmLZ.hlNbBe.bxDbsL.page.page-theme-inverted.page--article > div.PersistentTopWrapper-jtcqWF.lluQRc.persistent-top:nth-child(7) > header.StackedNavigationHeader-geceSi.bibyCc.stacked-navigation--fixed-header-layout.stacked-navigation--theme-standard.stacked-navigation--is-scrolled.site-navigation > section.LinkBannerWrapper-jOuIFz.cfzoBc.LinkBannerStackedNavigation-emCfiJ.kKIzxf:last-child > div.NavWrapper-ftGKcG.fJaSAg.LinkBannerLinkList-gVoINO.kJJbDm
 newyorker.com###app-root > div.BaseWrap-sc-TwdDQ.BasePageWrapper-bQOmLZ.hlNbBe.bxDbsL.page.page-theme-inverted.page--article > div.PersistentTopWrapper-jtcqWF.lluQRc.persistent-top:nth-child(7) > header.StackedNavigationHeader-geceSi.bibyCc.stacked-navigation--fixed-header-layout.stacked-navigation--theme-standard.stacked-navigation--is-scrolled.site-navigation > section.LinkBannerWrapper-jOuIFz.cfzoBc.LinkBannerStackedNavigation-emCfiJ.kKIzxf:last-child
+##.pageFooter
+sfchronicle.com###content > aside.article--aside.slideshow--aside:nth-child(3)
+##.zone, .bottomZone, .lock
+zhihu.com###QuestionAnswers-answers > div.Card.AnswersNavWrapper > div.ListShortcut > div.List > div:last-child > div > div.List-item:nth-child(2) > div > div.ContentItem.AnswerItem > div.RichContent.RichContent--unescapable:nth-child(8) > div.RichContent-inner:first-child > span.RichText.ztext.CopyrightRichText-richText.css-hnrfcf > div.RichText-MCNLinkCardContainer:nth-child(15)
+news.bitcoin.com###floating_sidebar > div.bn_desktop_widgets.start > aside.widget_text.td_block_template_1.widget.widget_custom_html:nth-child(2) > div.textwidget.custom-html-widget:last-child
+news.bitcoin.com###floating_sidebar > div.bn_desktop_widgets.start > aside.td_block_template_1.widget.bn_widget_recent_entries:nth-child(5) > ul:last-child
+1point3acres.com###pid15918895 > tbody > tr:first-child > td.plc:last-child > div.pct:nth-child(2) > div.pcb:last-child > div.t_fsz:nth-child(6) > div.mt-4.flex.bg-\#fafafa.p-4.rounded.shadow.flex-1.mr-4.w-full.box-border.justify-between.flex-wrap.xl\:flex-nowrap:nth-child(2)
+1point3acres.com##div.border-0.border-t.border-solid.border-\#f2f2f2.pt-4.bg-white.mb-100px:nth-child(17)
+wenxuecity.com##div.mcontainer:last-child > aside.sidebar:nth-child(2)
+news.sina.com.cn###wb01
+news.sina.com.cn###article > div.wap_special:nth-child(56) > div.tlt:first-child
+news.sina.com.cn###article > div.wap_special:nth-child(56) > a:last-child
+growth.eladgil.com###colophon
+dotcpp.com###body > div.div_btn_opendrawer:nth-child(5) > button.btn.btn_opendrawer
+1point3acres.com###pid15925334 > tbody > tr:first-child > td.plc:last-child > div.pct:nth-child(2) > div.pcb:last-child > div.t_fsz:nth-child(6) > div.mt-4.flex.bg-\#fafafa.p-4.rounded.shadow.flex-1.mr-4.w-full.box-border.justify-between.flex-wrap.xl\:flex-nowrap:last-child
+1point3acres.com###pid15406938 > tbody > tr:nth-child(2) > td.plc.plm > div.a_pb > div
+sohu.com###entrance
+sohu.com##div.wrapper-box:nth-child(6) > div.area.clearfix.public.content-yule.channel-content:nth-child(4) > div.sidebar.right:last-child > div.yule-play.clearfix.bordR:first-child
+sohu.com##div.wrapper-box:nth-child(6) > div.area.clearfix.public.content-sports.channel-content:nth-child(5) > div.main.left:first-child > div:last-child > div.main-box.clearfix.sports-news:first-child > div.main-left.left:first-child
+sohu.com##div.wrapper-box:nth-child(6) > div.area.clearfix.public.content-other:nth-child(12) > div.main.left:first-child > div.main-box.main-boxB.clearfix:nth-child(3) > div.main-left.travel-news.left:first-child
+1point3acres.com###portal_block_421_content
+1point3acres.com###pid15974304 > tbody > tr:first-child > td.plc:last-child > div.pct:nth-child(2) > div.pcb:last-child > div.t_fsz:nth-child(6) > div.w-500px.lg\:w-550px.bg-\#fafafa.p-6.mt-5:last-child
+qq.com###hd_picture_20200724 > div.layout.qq-pics > div.mainbody:last-child > div.wrap:last-child
+qq.com##div.global:nth-child(2) > div.layout.qq-footer:nth-child(21)
+1point3acres.com###portal_block_428_content > div.flex.flex-wrap.justify-center.space-x-1.my-1:first-child
+1point3acres.com###subforum_282 > table.fl_tb > tbody
+1point3acres.com###pid14887149 > tbody > tr:first-child > td.plc:last-child > div.pct:nth-child(2) > div.pcb:last-child > div.t_fsz:nth-child(6) > div.mt-4.flex.bg-\#fafafa.p-4.rounded.shadow.flex-1.mr-4.w-full.box-border.justify-between.flex-wrap.xl\:flex-nowrap:last-child
+sohu.com##div.top-box:nth-child(5) > div.top-box-wrapper > div.logo-search.area:first-child > div.logo.left:first-child
+sohu.com##div.wrapper-box:nth-child(6) > div.area.clearfix.public.content-business.channel-content:nth-child(7) > div.main.left:first-child > div:last-child > div.main-box.clearfix.business-news:first-child > div.main-left.left:first-child
+1point3acres.com###pid15992673 > tbody > tr:nth-child(2) > td.plc.plm
+1point3acres.com###category_400 > table.fl_tb:last-child > tbody > tr:nth-child(5)
+1point3acres.com###category_400 > table.fl_tb:last-child > tbody > tr:nth-child(6)
+1point3acres.com###category_400 > table.fl_tb:last-child > tbody > tr:nth-child(4)
+1point3acres.com###category_400 > table.fl_tb:last-child > tbody > tr:nth-child(7)
+1point3acres.com###category_400 > table.fl_tb:last-child > tbody > tr:nth-child(2)
+1point3acres.com###pid15998232 > tbody > tr:first-child > td.plc:last-child > div.pct:nth-child(2) > div.pcb:last-child > div.t_fsz:nth-child(6) > div.mt-4.flex.bg-\#fafafa.p-4.rounded.shadow.flex-1.mr-4.w-full.box-border.justify-between.flex-wrap.xl\:flex-nowrap:last-child
+mail.google.com###\:8s > a:last-child > img.CToWUd
+163.com###content > div.related_article.related_special:nth-child(25)
