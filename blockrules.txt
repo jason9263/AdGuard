@@ -1803,3 +1803,5 @@ sohu.com##div.wrapper-box:nth-child(6) > div.area.clearfix.public.content-busine
 1point3acres.com###pid15998232 > tbody > tr:first-child > td.plc:last-child > div.pct:nth-child(2) > div.pcb:last-child > div.t_fsz:nth-child(6) > div.mt-4.flex.bg-\#fafafa.p-4.rounded.shadow.flex-1.mr-4.w-full.box-border.justify-between.flex-wrap.xl\:flex-nowrap:last-child
 mail.google.com###\:8s > a:last-child > img.CToWUd
 163.com###content > div.related_article.related_special:nth-child(25)
+blog.csdn.net##div:nth-child(46) > div.csdn-side-toolbar
+163.com##div.page_wrap:nth-child(3) > div.container.clearfix:nth-child(5) > div.right_box:last-child
