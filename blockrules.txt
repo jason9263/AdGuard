@@ -1805,3 +1805,5 @@ mail.google.com###\:8s > a:last-child > img.CToWUd
 163.com###content > div.related_article.related_special:nth-child(25)
 blog.csdn.net##div:nth-child(46) > div.csdn-side-toolbar
 163.com##div.page_wrap:nth-child(3) > div.container.clearfix:nth-child(5) > div.right_box:last-child
+blog.1point3acres.com###custom_html-28 > div.textwidget.custom-html-widget > div
+new.qq.com###Status > div.article-status > div.statement:last-child
