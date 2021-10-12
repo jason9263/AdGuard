@@ -1807,3 +1807,17 @@ blog.csdn.net##div:nth-child(46) > div.csdn-side-toolbar
 163.com##div.page_wrap:nth-child(3) > div.container.clearfix:nth-child(5) > div.right_box:last-child
 blog.1point3acres.com###custom_html-28 > div.textwidget.custom-html-widget > div
 new.qq.com###Status > div.article-status > div.statement:last-child
+sohu.com###sport2017
+sohu.com##div.wrapper-box:nth-child(6) > div.area.clearfix.public.content-auto.channel-content:nth-child(8) > div.sidebar.right:last-child > div.clear.plugin.plugin-side-right
+sohu.com##div.wrapper-box:nth-child(6) > div.area.clearfix.public.content-business.channel-content:nth-child(7) > div.sidebar.right:last-child > div.clear.plugin.plugin-side-right:first-child
+sohu.com##div.wrapper-box:nth-child(6) > div.area.clearfix.public.content-other:nth-child(12) > div.main.left:first-child > div.main-box.main-boxF.clearfix:nth-child(9)
+sohu.com##div.wrapper-box:nth-child(6) > div.area.clearfix.public.content-other:nth-child(12) > div.main.left:first-child > div.main-box.main-boxG.clearfix.main-box-end:last-child
+qq.com##div.global:nth-child(2) > div.layout.qq-main.cf:nth-child(5) > div.col.col-3.fr:last-child > div.mod.m-match:nth-child(2) > div.bd:last-child > ul.news-list
+finance.yahoo.com###monalixa-rightrail > div.Mb\(20px\):last-child > div.has-beacon-click.has-wafer-click.wafer-beacon-loaded.wafer-destroyed > a.D\(b\).Mb\(10px\) > img.wafer-img
+finance.yahoo.com###module-dynamicRR
+finance.yahoo.com###caas-art-81453494-fcfe-39be-b31c-a28c6ca421e5 > article.caas-container > div.caas-body-wrapper:last-child > div.caas-body-content:last-child > div.caas-full-bleed:first-child > div.caas-yvideo-wrapper.yvideo.caas-hero.caas-cover.caas-yvideo-elem > div > div.caas-yvideo.caas-yvideo-top.caas-yvideo-rendered > div.player > div.vp-content.normal.vp-browser-ua.vp-browser-chrome.vp-browser-desktop.vp-browser-windows.vp-browser-class.vp-browser-win10.vp-browser-win64.vp-browser-architecture.vp-device-desktop.vp-mode-video.vp-flag-playing.vp-flag-loading.vp-hide-controls.vp-state-video > div.vp-playlist-container.vp-playlist-mode-right.vp-playlist-theme-light:last-child > div.vp-playlist-strip:nth-child(3)
+finance.yahoo.com###module-marketSummary > div:first-child
+finance.yahoo.com###stream-wrapper > ul.common.simple-list.Pstart\(0\):last-child
+realtor.com###rdc-global-footer > footer.rui-patterns__sc-srjt6i-0.cSRDLR
+realtor.com###secondary
+amlu.com###wide-sidebar > div.span4.sb-4.q2w3-fixed-widget-container:last-child
