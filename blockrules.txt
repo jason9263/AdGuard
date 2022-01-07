@@ -1972,3 +1972,27 @@ zhuanlan.zhihu.com###root > div.App > main.App-main:nth-child(3) > div.Post-cont
 zhuanlan.zhihu.com###root > div.App > main.App-main:nth-child(3) > div.Post-content > div.Post-Sub.Post-NormalSub:last-child > div.Comments-container:last-child > div.CommentsV2.CommentsV2--withEditor.CommentsV2-withPagination
 zhuanlan.zhihu.com###root > div.App > main.App-main:nth-child(3) > div.Post-content > article.Post-Main.Post-NormalMain:nth-child(3) > div.Post-topicsAndReviewer:nth-child(4)
 visa.careerengine.us##div.page-container.has-sub-navigation.docked-sub-navigation.scroll-up:nth-child(3) > div.page-inner-container:first-child > div.page-content-container:nth-child(3) > div.home-container.cce-grid:nth-child(4) > div.cce-row > div.specialPosts-holder.cce-col-4.cce-col-md-12.cce-col-sm-12:nth-child(4) > div.specialPosts-holder-inner > div.ce-shared-react-container.sectionContainer:first-child > div.ce-shared-react-form.listForm.ce-visa-historyTrend.showBorder.roundedCorner > div.formContent:last-child > div.formItemHolder.col-12.col-md-12.col-sm-12.col-xs-12 > div.value > div.specialPosts > div.post-accessories
+mp.weixin.qq.com###js_content > p:nth-child(18) > img.rich_pages.wxw-img
+haofang365.com##article:nth-child(4) > aside.sidebar:nth-child(3) > div.tuijian:last-child
+haofang365.com##article:nth-child(4) > aside.sidebar:nth-child(3) > div.tuijian:first-child
+fund.jrj.com.cn##div.main:nth-child(12) > div.col.c2-1.clear:last-child > div.col-02:last-child
+fund.jrj.com.cn###z3_remind
+fund.jrj.com.cn##div.main:nth-child(12) > div.col.c2-1.clear:last-child > div.col-01:first-child > div.texttitbox:first-child > div.mdtwo.mt20:nth-child(8)
+fund.jrj.com.cn###xgwz > div.mdone.mt25 > div.list-sone.mt20:last-child
+fund.jrj.com.cn###pinglun
+blog.csdn.net###csdn-toolbar > div.toolbar-inside:last-child > div.toolbar-container
+zhuanlan.zhihu.com###root > div.App > main.App-main:nth-child(3) > div.Post-content > div.Post-Sub.Post-NormalSub:last-child > div.PostIndex-Contributions:first-child
+zhuanlan.zhihu.com###root > div.App > main.App-main:nth-child(3) > div.Post-content > article.Post-Main.Post-NormalMain:nth-child(3) > div:last-child > div.Sticky.RichContent-actions.is-bottom > div.ContentItem-actions
+zhuanlan.zhihu.com###root > div.App > main.App-main:nth-child(3) > div.Post-content > img.TitleImage:nth-child(2)
+163.com###content > div.post_body:nth-child(2) > p.f_center:nth-child(90) > img
+1point3acres.com###pid16328607 > tbody > tr:nth-child(2) > td.plc.plm > div.a_pb > div
+1point3acres.com###pid16354548 > tbody > tr:nth-child(2) > td.plc.plm > div.a_pb > div
+1point3acres.com###pid16377918 > tbody > tr:nth-child(2) > td.plc.plm > div.a_pb > div > a > img
+thedailybeast.com###react-mount-point > main.StoryPage > main:nth-child(3) > section.StoryPage__stories-container:nth-child(3) > div.StoryContainer > div.StorySidebarWrapper:nth-child(2) > div.StorySidebarWrapper__content:nth-child(3) > aside.Sidebar:last-child > div.Sidebar__rtl-container:nth-child(2) > div.Sidebar__sticky-wrapper.sticky
+thedailybeast.com###react-mount-point > main.StoryPage > nav.Navigation:nth-child(2) > div.NavDesktop.NavDesktop--compact:last-child > div.NavDesktop__wrapper:first-child > div.NavSubDesktop.NavSubDesktop--compact.NavSubDesktop--show:nth-child(2)
+thedailybeast.com###react-mount-point > main.StoryPage > nav.Navigation:nth-child(2) > div.NavDesktop.NavDesktop--compact:last-child
+nytimes.com###story > section.meteredContent.css-1r7ky0e:nth-child(3) > div:last-child > div.css-1sngw6j
+nytimes.com###story > section.meteredContent.css-1r7ky0e:nth-child(3) > div:nth-child(16) > div.related-links-block.css-1j2g5xc.epkadsg3
+nytimes.com###story > div.bottom-of-article:nth-child(4)
+qq.com##div.global:nth-child(2) > div.layout.qq-main.cf:nth-child(5) > div.col.col-2.fl:nth-child(2) > div.mod.m-topic:first-child > div.bd:last-child > ul.news-list > li:nth-child(5)
+qq.com###mod-recommend
