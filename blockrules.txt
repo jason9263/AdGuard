@@ -2349,3 +2349,38 @@ reuters.com###fusion-app > div.regular-article-layout__container___1O5R7C > div.
 163.com###js_index2017_wrap > div.ne_area.ne_index_area:nth-child(3) > div.cm_area.mt40.ns_area_synthesis.cm_area_show:nth-child(17) > div.col_lm:first-child > div.mod_ntes_stock.mt30:nth-child(2)
 163.com###js_index2017_wrap > div.ne_area.ne_index_area:nth-child(3) > div.cm_area.mt40.ns_area_synthesis.cm_area_show:nth-child(17) > div.col_lm:first-child > div:last-child
 163.com###js_index2017_wrap > div.ne_area.ne_index_area:nth-child(3) > div.ne_area.ns_area_slidefoot.cm_area_show:last-child
+163.com###js_index2017_wrap > div.ne_area.ne_index_area.festival_main:nth-child(4) > div.cm_area.cm_area_mt.ns_area_house:nth-child(12) > div.col_lm:first-child > div.mod_left_house:first-child
+1point3acres.com###portal_block_650_content > div.flex.justify-center.space-x-1.my-1:first-child
+marketwatch.com###maincontent > div.region.region--primary:first-child > div.column.column--full.article__footer:last-child
+marketwatch.com###maincontent > div.region.region--aside:nth-child(2) > div.column.column--full > div.element.element--list.most-popular:nth-child(5)
+163.com###mod_news_tab > div.tab_main.clearfix:last-child > div.tab_panel.tab_panel_yaowen.current:first-child > div.yaowen_dada_news:nth-child(2) > ul.cm_ul_round
+time.geekbang.org###app > div.Index_wrap_2Piiq:first-child > div.Index_main_3MKag:nth-child(2) > div.leads-wrapper:last-child > div.leads:first-child
+bilibili.com###i_cecream > main.bili-layout:nth-child(2) > section.bili-grid:nth-child(10) > div.guo-chuang-area > div.bili-grid:first-child > div.bangumi-card-list:first-child
+bilibili.com###i_cecream > main.bili-layout:nth-child(2) > section.bili-grid:nth-child(10) > div.guo-chuang-area > div.bili-grid.no-margin:last-child > aside:last-child
+bilibili.com###i_cecream > main.bili-layout:nth-child(2) > section.bili-grid:nth-child(10) > div.guo-chuang-area > div.bili-grid.no-margin:last-child > div.video-card-list.is-main:first-child
+finance.eastmoney.com##div.main:nth-child(2) > div.contentwrap:last-child > div.contentbox:last-child > div.mainright:last-child
+finance.eastmoney.com###reply_editor
+finance.eastmoney.com###comment_hot_content
+finance.eastmoney.com###comment_all
+finance.eastmoney.com##div.footer2016:nth-child(4) > div.footercr:nth-child(2)
+1point3acres.com###\30 \.883465523469132 > ul.slideshow > li:last-child
+1point3acres.com###frame995RKT
+bilibili.com###i_cecream > main.bili-layout:nth-child(2) > section.bili-grid:nth-child(6) > div.live-card-list:first-child
+huarenabc.com###sidebar > div.ct-sidebar
+huarenabc.com###header > div:first-child > div:last-child > div.ct-container-fluid > div > div
+huarenabc.com###post-9367 > div.entry-content:nth-child(2) > div.wp-block-columns:nth-child(101)
+thebalance.com###masonry-section_1-0
+1point3acres.com###hd > div:first-child > div.pt-2.flex.justify-center.items-center.mx-auto.bg-\#e6f1f6 > img:first-child
+pewresearch.org###secondary
+cnbc.com###Placeholder-ArticleBody-Video-107029385
+tech.qq.com###sideBars
+tech.qq.com###Comment-Article-QQ
+tech.qq.com###MainL > div.main:first-child > div.mod-left.bottom-Article-QQ.sildPic-Article-QQ:nth-child(12)
+sina.com.cn##div.main:nth-child(20) > div.city-union:nth-child(55) > div.clearfix:first-child
+sina.com.cn##div.main:nth-child(20) > div.city-union:nth-child(55) > div.clearfix.c-hot:last-child
+sina.com.cn##div.main:nth-child(20) > div.part-s.clearfix:nth-child(52) > div.part-s-l:first-child > div.mod-13.mod-02
+sina.com.cn###SI_Order_W
+sina.com.cn###SI_Order_B > div.SC_Order_Fix > div.uni-blk-b.SC_Order_Fix_Cont:last-child > div:first-child > ul.searchCars.clearfix:nth-child(2)
+sina.com.cn###SI_Order_A > div.SC_Order_Fix > div.uni-blk-b.SC_Order_Fix_Cont:last-child > div.nmod01:last-child
+nypost.com###page > aside.more-stories:nth-child(5)
+nypost.com###masthead > div.site-header__wrapper:first-child
