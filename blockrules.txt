@@ -2384,3 +2384,35 @@ sina.com.cn###SI_Order_B > div.SC_Order_Fix > div.uni-blk-b.SC_Order_Fix_Cont:la
 sina.com.cn###SI_Order_A > div.SC_Order_Fix > div.uni-blk-b.SC_Order_Fix_Cont:last-child > div.nmod01:last-child
 nypost.com###page > aside.more-stories:nth-child(5)
 nypost.com###masthead > div.site-header__wrapper:first-child
+1point3acres.com###subforum_29 > table.fl_tb > tbody
+jerseydigs.com###td-outer-wrap > div.tdc-footer-wrap:last-child > div.td-footer-wrapper.td-footer-container.td-container-wrap.td-footer-template-14:first-child
+jerseydigs.com###td-outer-wrap > div.td-main-content-wrap.td-container-wrap:nth-child(2) > div.td-container.td-post-template-default > div.td-pb-row:last-child > div.td-pb-span8.td-main-content:first-child > div.td-ss-main-content > div.td_block_wrap.td_block_related_posts.tdi_3_555.td_with_ajax_pagination.td-pb-border-top.td_block_template_1:nth-child(3)
+jerseydigs.com###td-outer-wrap > div.td-main-content-wrap.td-container-wrap:nth-child(2) > div.td-container.td-post-template-default > div.td-pb-row:last-child > div.td-pb-span4.td-main-sidebar:last-child > div.td-ss-main-sidebar
+jerseydigs.com###td-outer-wrap > div.tdc-header-wrap:first-child > div.td-header-wrap.td-header-style-6 > div.td-header-menu-wrap-full.td-container-wrap:nth-child(2) > div.td-header-menu-wrap
+163.com###js_index2017_wrap > div.ne_area.ne_index_area:nth-child(3) > div.cm_area.cm_area_mt.ns_area_tech.cm_area_show:nth-child(11) > div.col_r:last-child > div.cm_mod_tab.cm_mod_tab1.mod_right_licai.mt20:last-child
+163.com###contain > div.post_side:nth-child(3)
+163.com###contain > div.post_main:nth-child(2) > div.post_recommends.js-tab-mod:last-child
+posts.careerengine.us##div.page-container.has-sub-navigation.has-customized-navigation.fontV2.docked-sub-navigation.scroll-down:nth-child(4) > div.page-inner-container:first-child > div.page-content-container:nth-child(3) > div.post-container.cce-grid:nth-child(7) > div.cce-row > div.more-posts-section.cce-col-4:nth-child(7) > div.ce-posts-specialPostsSidePanel:last-child > div.ce-postsApp-specialPostsSidePanel.ce-postsApp-sidePanel
+posts.careerengine.us##div.page-container.has-sub-navigation.has-customized-navigation.fontV2.docked-sub-navigation.scroll-up:nth-child(4) > div.page-inner-container:first-child > div.page-content-container:nth-child(3) > div.post-container.cce-grid:nth-child(7) > div.cce-row > div.more-posts-section.cce-col-4:nth-child(7) > div.ce-posts-latestPostsSidePanel:first-child > div.ce-postsApp-latestPostsSidePanel.ce-postsApp-sidePanel
+posts.careerengine.us##div.page-container.has-sub-navigation.has-customized-navigation.fontV2.docked-sub-navigation.scroll-up:nth-child(4) > div.page-inner-container:first-child > div.page-content-container:nth-child(3) > div.post-container.cce-grid:nth-child(7) > div.cce-row > div.more-posts-section.cce-col-4:nth-child(7) > div.ce-posts-specialPostsSidePanel:last-child > div.ce-postsApp-specialPostsSidePanel.ce-postsApp-sidePanel
+posts.careerengine.us##div.page-container.has-sub-navigation.has-customized-navigation.fontV2.scroll-up:nth-child(4) > div.page-inner-container:first-child > div.page-content-container:nth-child(3) > div.post-container.cce-grid:nth-child(7) > div.cce-row > div.cce-col-4:nth-child(5)
+posts.careerengine.us##div.page-container.has-sub-navigation.has-customized-navigation.fontV2.scroll-down.docked-sub-navigation:nth-child(4) > div.page-inner-container:first-child > div.page-content-container:nth-child(3) > div.post-container.cce-grid:nth-child(7) > div.cce-row > div.recommendation-section.cce-col-8.newRecommendationSection:nth-child(6)
+posts.careerengine.us##div.page-container.has-sub-navigation.has-customized-navigation.fontV2.docked-sub-navigation.scroll-up:nth-child(4) > div.page-inner-container:first-child > div.page-content-container:nth-child(3) > div.post-container.cce-grid:nth-child(7) > div.cce-row > div.recommendation-section.cce-col-8.newRecommendationSection:nth-child(6) > div.post-list:nth-child(4)
+posts.careerengine.us##div.page-container.has-sub-navigation.has-customized-navigation.fontV2.docked-sub-navigation.scroll-up:nth-child(4) > div.page-inner-container:first-child > div.page-content-container:nth-child(3) > div.post-container.cce-grid:nth-child(7) > div.cce-row > div.recommendation-section.cce-col-8.newRecommendationSection:nth-child(6) > div.post-list:nth-child(3)
+bcbay.com##div.main:nth-child(9) > div.you:last-child
+bcbay.com##div.main:nth-child(9) > div.zuo:first-child > table:nth-child(4)
+blog.csdn.net###mainBox > aside.blog_container_aside:nth-child(3)
+blog.csdn.net###mainBox > main:nth-child(2) > div.recommend-tit-mod:nth-child(10)
+blog.csdn.net##div:nth-child(49) > div.csdn-side-toolbar
+blog.csdn.net###mainBox > main:nth-child(2) > div.recommend-box.insert-baidu-box:nth-child(14)
+blog.csdn.net###mainBox > main:nth-child(2) > div.first-recommend-box.recommend-box:nth-child(11)
+blog.csdn.net###mainBox > main:nth-child(2) > div.second-recommend-box.recommend-box:nth-child(13) > div.recommend-item-box.type_blog.clearfix
+blog.csdn.net###mainBox > main:nth-child(2) > div.template-box:nth-child(15)
+jianshu.com###__next > div._21bLU4._3kbg6I:nth-child(2) > div._3VRLsv > aside._2OwGUo:nth-child(2) > div:last-child > div.ant-affix:last-child
+jianshu.com###__next > div._21bLU4._3kbg6I:nth-child(2) > div._3VRLsv > div._gp-ck:first-child > section.ouvJEz:first-child > div._13lIbp:nth-child(8)
+news.sina.cn##main.page_main.fl_padding:nth-child(3) > section.s_card.j_article_relevent.j_wbrecommend_wrap:nth-child(15) > div.feed_box.j_relevent_box:nth-child(2)
+news.sina.cn##main.page_main.fl_padding:nth-child(3) > nav.hd_nav.ft_nav:nth-child(20)
+news.sina.cn##main.page_main.fl_padding:nth-child(3) > section.s_card.j_relevent_video:nth-child(6)
+news.sina.cn##main.page_main.fl_padding:nth-child(3) > section.s_card:nth-child(5) > div.plague_Card.index
+bloomberg.com##main.transporter-container:nth-child(26) > div.transporter-item.current:first-child > div:first-child > article:last-child > div.article-content__f38503f9 > aside.right-rail__2832a8d1:last-child
+bloomberg.com##main.transporter-container:nth-child(26) > div.transporter-item.current:first-child > div:first-child > article:last-child > div.article-content__f38503f9 > div.content-well__5e77db71:nth-child(3) > aside.left-rail__dd66ad55:nth-child(2)
