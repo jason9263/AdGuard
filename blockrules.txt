@@ -2416,3 +2416,45 @@ news.sina.cn##main.page_main.fl_padding:nth-child(3) > section.s_card.j_relevent
 news.sina.cn##main.page_main.fl_padding:nth-child(3) > section.s_card:nth-child(5) > div.plague_Card.index
 bloomberg.com##main.transporter-container:nth-child(26) > div.transporter-item.current:first-child > div:first-child > article:last-child > div.article-content__f38503f9 > aside.right-rail__2832a8d1:last-child
 bloomberg.com##main.transporter-container:nth-child(26) > div.transporter-item.current:first-child > div:first-child > article:last-child > div.article-content__f38503f9 > div.content-well__5e77db71:nth-child(3) > aside.left-rail__dd66ad55:nth-child(2)
+jianshu.com###__next > footer:nth-child(3) > div._2xr8G8:first-child
+bilibili.com###reco_list > div.next-play:first-child > div.video-page-card-small:nth-child(2)
+search.bilibili.com###biliMainFooter > div.bili-footer
+search.bilibili.com###i_cecream > div.search-layout.clearfix:first-child > div.side-buttons-container.p_fixed:last-child > div.side-buttons-wrapper.i_wrapper > div.p_relative > div > div.side-buttons.flex_col_end.p_absolute
+sohu.com##div.wrapper-box:nth-child(7) > div.area.contentA.public.clearfix:nth-child(2) > div.right.sidebar:last-child
+sohu.com##div.wrapper-box:nth-child(7) > div.area.clearfix.public.content-yule.channel-content:nth-child(4)
+sohu.com##div.wrapper-box:nth-child(7) > div.area.clearfix.public.content-sports.channel-content:nth-child(5) > div.sidebar.right:last-child
+sohu.com##div.wrapper-box:nth-child(7) > div.area.clearfix.public.content-other:nth-child(12) > div.sidebar.right:last-child > div.bordR.fun-frag.clearfix.plugin.plugin-side-right:nth-child(4)
+sohu.com##div.wrapper-box:nth-child(7) > div.area.clearfix.public.content-other:nth-child(12) > div.sidebar.right:last-child
+sohu.com###abroad-share-box > div:first-child
+sohu.com###article-container > div.left.main:first-child > div:first-child > div.text > div.bottom-relate-wrap.clear.type-3:last-child
+163.com###js_index2017_wrap > div.ne_area.ne_index_area:nth-child(3) > div.cm_area.mt40.ns_area_synthesis.cm_area_show:nth-child(17) > div.col_lm:first-child > div.clearfix:first-child > div.col_l:first-child > div.mt37:last-child > div.mod_channel.mod_lofter
+blog.csdn.net###mainBox > main:nth-child(2) > div.recommend-box.insert-baidu-box:nth-child(13)
+blog.csdn.net###mainBox > main:nth-child(2) > div.first-recommend-box.recommend-box:nth-child(8)
+blog.csdn.net###recommendNps
+blog.csdn.net###pcCommentBox
+blog.csdn.net###mainBox > main:nth-child(2) > div.second-recommend-box.recommend-box:nth-child(10) > div.recommend-item-box.type_blog.clearfix
+zhuanlan.zhihu.com###root > div.App > main.App-main:nth-child(3) > div.Post-content > article.Post-Main.Post-NormalMain:nth-child(2) > div.Reward:nth-child(4)
+zhuanlan.zhihu.com###root > div.App > main.App-main:nth-child(3) > div.Post-content > article.Post-Main.Post-NormalMain:nth-child(2) > div.Post-topicsAndReviewer:nth-child(5)
+bilibili.com###reco_list > div.rec-list:first-child > div.video-page-special-card-small:first-child > div.card-box
+nytimes.com###story > div:nth-child(6) > div.css-r8b5mt > div.css-pzlm73:first-child
+nytimes.com###story > div:nth-child(6) > div.css-r8b5mt
+nytimes.com###story > section.meteredContent.css-1r7ky0e:nth-child(4) > div:nth-child(17)
+nytimes.com###story > section.meteredContent.css-1r7ky0e:nth-child(4) > div.css-s99gbd.StoryBodyCompanionColumn:last-child
+news.sina.com.cn###article_content > div.article-content-left:first-child > div.blk-wxfollow.clearfix:nth-child(4)
+##.c-privacy-reminder, .is-visible
+sina.com.cn##div.main:nth-child(19) > div.city-union:nth-child(55) > div.clearfix:first-child
+sina.com.cn##div.main:nth-child(19) > div.city-union:nth-child(55) > div.clearfix.c-hot:last-child
+sc.sina.com.cn##div.wrap:nth-child(25) > div.side:last-child
+##.CCC-float-bar-right
+sc.sina.com.cn###artibody > div.ad_card:nth-child(3) > iframe
+sc.sina.com.cn##div.share-layout:nth-child(26) > a.share-weibo
+sc.sina.com.cn###artibody > div.ad_card:nth-child(3)
+sc.sina.com.cn##div.wrap:nth-child(25) > div.con:first-child > ul.love-list:nth-child(9)
+sc.sina.com.cn###footer-wrap > div.footer-bg
+sc.sina.com.cn##div.wrap:nth-child(25) > div.con:first-child > div.discuss-form:nth-child(6) > div.comment-form.m_comment
+yes-boss.asia###mvp-content-body > div.mvp-cont-read-wrap:last-child
+bilibili.com###reco_list > div.rec-list:nth-child(2) > div.video-page-game-card-small:first-child > div.card-box
+bilibili.com###reco_list > div.rec-list:nth-child(2) > div.video-page-card-small:nth-child(2) > div.card-box
+economist.com###sp_message_iframe_617100
+zhangshengrong.com###main > section:nth-child(5)
+zhangshengrong.com###main > section:nth-child(7)
