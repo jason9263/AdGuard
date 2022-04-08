@@ -2493,3 +2493,33 @@ weiqi.qq.com##div.container.news-list:nth-child(4) > div.row > div.col-sm-12.com
 weiqi.qq.com##div.container.news-list:nth-child(4) > div.row > div.col-sm-12.news-list-relevance:last-child
 weiqi.qq.com##div.container.news-list:nth-child(4) > div.row > div.col-sm-12.news-list-zan:nth-child(4)
 bilibili.com###app > div.video-container-v1:nth-child(4) > div.right-container.small-mode:nth-child(2)
+pangzitv.com##div.sidebarfloor_0:nth-child(10) > div.cm-w1000 > div.clear.playvideo > h3.playvideoTitle:nth-child(2)
+forbes.com###regular-post-article > div.right-rail.w-300px.hidden.relative.md\:block:last-child > div.right-rail-inner-wrapper > div.right-rail-ed-container.w-300px:last-child > div.ed-wrapper-0 > div.ed-placeholder-wrapper:last-child
+forbes.com###you-may-also-like
+forbes.com###fs-article-body > div:nth-child(71) > div.ev-tax-credit-calculator > div.ev-tax-credit-calculator__body.p-5.lg\:p-10:last-child
+forbes.com###regular-post-article > div.right-rail.w-300px.hidden.relative.md\:block:last-child > div.right-rail-inner-wrapper > div.mb-8.latest-articles-section:first-child
+blog.csdn.net###mainBox > main:nth-child(2) > div.second-recommend-box.recommend-box:nth-child(10) > div.recommend-item-box.type_download.clearfix
+4k8k.xyz##div.container:nth-child(3) > div.row > div.col-md-8:nth-child(3) > div:nth-child(12)
+4k8k.xyz##div.container:nth-child(3) > div.row > div.col-md-8:nth-child(3) > div:nth-child(15)
+4k8k.xyz###footer-sec
+4k8k.xyz##div.container:nth-child(3) > div.row > div.col-md-4:nth-child(4)
+4k8k.xyz##header:nth-child(2) > div.info-sec:last-child > div.container > div.row > div.col-md-2:first-child
+softwareengineeringdaily.com###main > div.row > div.col-xs-12.col-md-6.col-lg-12:last-child > div.row.equal.category-box__row.category-box__row--post
+softwareengineeringdaily.com###widget_sp_image-9
+nunuyy10.top##div.container:nth-child(3) > div.article-container:first-child > div.article-actions.clearfix:last-child
+douban.com###content > div.grid-16-8.clearfix > div.aside:nth-child(2)
+sina.com.cn##div.main:nth-child(19) > div.part-s.clearfix:nth-child(52) > div.part-s-l:first-child > div.mod-13.mod-02
+news.sina.com.cn###page > div.Main:nth-child(8) > div.sidebar:nth-child(2)
+1point3acres.com###portal_block_664
+1point3acres.com###user-location-widget > div.flex.flex-1.relative.overflow-hidden.text-\#5E5E5E > div.flex-1.flex.flex-col.justify-between > div.flex.justify-between
+rebellyous.com###cp_popup_id_3784 > div.cp-popup-wrapper.cp-auto > div.cp-popup.cpro-animate-container.cp-animated.cp-fadeIn > form.cpro-form > div.cp-popup-content.cpro-active-step.cp-slide_in.bottom-right.cp-panel-1:nth-child(3)
+extrabux.com##div.ccpabar:nth-child(11)
+extrabux.com##div.main:nth-child(8) > div.w1200:nth-child(2) > div.page-content.clearfix:last-child > div.side:nth-child(2)
+extrabux.com##div.main:nth-child(8) > div.w1200:nth-child(2) > div.page-content.clearfix:last-child > div.left:first-child > div.icon_bar_side:first-child
+extrabux.com##footer:nth-child(10)
+mxhaitao.com##div.content.content-new.content-sub:nth-child(6) > div.page-container.sub-page-container.clearfix > div.col-sub:last-child
+5yimin.com###telll
+tech.hexun.com##div.fc_sidebar.fc_sidebar_s:nth-child(18) > div.fc_s_list:first-child
+tech.hexun.com##div.layout.mg.clearfix:nth-child(13) > div.w300:last-child
+tech.hexun.com##div.layout.mg.clearfix:nth-child(14) > div.w300:last-child
+tech.hexun.com##div.fc_sidebar.fc_sidebar_s:nth-child(19) > div.fc_s_list:first-child
