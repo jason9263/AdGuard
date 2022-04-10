@@ -2523,3 +2523,34 @@ tech.hexun.com##div.fc_sidebar.fc_sidebar_s:nth-child(18) > div.fc_s_list:first-
 tech.hexun.com##div.layout.mg.clearfix:nth-child(13) > div.w300:last-child
 tech.hexun.com##div.layout.mg.clearfix:nth-child(14) > div.w300:last-child
 tech.hexun.com##div.fc_sidebar.fc_sidebar_s:nth-child(19) > div.fc_s_list:first-child
+mp.weixin.qq.com###js_content > section:nth-child(139) > mpprofile.js_uneditable > div.appmsg_card_context.wx_profile_card.js_wx_profile_card.js_wx_tap_highlight.wx_tap_card > div.wx_profile_card_bd:first-child
+mp.weixin.qq.com###js_content > section.js_darkmode__3:nth-child(140)
+mp.weixin.qq.com###js_content > section:nth-child(137) > mpprofile.js_uneditable > div.appmsg_card_context.wx_profile_card.js_wx_profile_card.js_wx_tap_highlight.wx_tap_card > div.wx_profile_card_bd:first-child
+mp.weixin.qq.com###js_wx_profile_logo
+bilibili.com###i_cecream > main.bili-layout:nth-child(2) > section.bili-grid:nth-child(22) > div.video-card-list.is-main:first-child > div.video-card-body:last-child > div.bili-video-card:nth-child(8) > div.bili-video-card__wrap.__scale-wrap:last-child
+bilibili.com###i_cecream > div.bili-footer:last-child
+bilibili.com###i_cecream > main.bili-layout:nth-child(2) > section.bili-grid:nth-child(10) > div.guo-chuang-area > div.bili-grid:first-child > aside:last-child > div.aside-wrap > div.aside-head:first-child
+bilibili.com###i_cecream > main.bili-layout:nth-child(2) > section.bili-grid:nth-child(7) > aside:last-child > div.aside-wrap > div.aside-head:first-child
+bilibili.com###i_cecream > main.bili-layout:nth-child(2) > section.bili-grid:nth-child(9) > div.bangumi-area > div.bili-grid:first-child > aside:last-child > div.aside-wrap > div.aside-head:first-child > div.area-header
+bilibili.com###i_cecream > main.bili-layout:nth-child(2) > section.bili-grid:nth-child(6) > aside.live-rank-conent:last-child > div.aside-wrap > div.aside-head:first-child > div.area-header > div.left:first-child
+bilibili.com###i_cecream > main.bili-layout:nth-child(2) > section.bili-grid:nth-child(9) > div.bangumi-area
+bilibili.com###i_cecream > main.bili-layout:nth-child(2) > section.bili-grid:nth-child(10) > div.guo-chuang-area
+mil.news.sina.com.cn##div.wrap:nth-child(14) > div.main.udv-clearfix:last-child > div.col300:last-child
+mil.news.sina.com.cn##div.wrap:nth-child(14) > div.main.udv-clearfix:last-child > div.col680:first-child > div.blk_01 > div.bt:first-child
+mil.news.sina.com.cn##div.wrap:nth-child(14) > div.mil_logo.udv-clearfix:nth-child(2)
+mil.news.sina.com.cn###ad_03152 > div:first-child
+finance.sina.cn##main.page_main.fl_padding:nth-child(2) > section.s_card.j_article_relevent.j_wbrecommend_wrap:nth-child(4)
+finance.sina.cn##main.page_main.fl_padding:nth-child(2) > nav.hd_nav.ft_nav:nth-child(5)
+finance.sina.cn##main.page_main.fl_padding:nth-child(2) > section.s_card.j_article_relevent_news.z_c2:nth-child(3)
+jueshifan.com##div.wrap-b.pt-20.pb-40:nth-child(4) > div.wrap.clearfix.main.main-relative:last-child > div.right.fr:last-child
+jueshifan.com##div.wrap-b.pt-20.pb-40:nth-child(4) > div.wrap.clearfix.main.main-relative:last-child > div.left.fl:first-child > div.related-read.mb-10:last-child > div.related-read-main:last-child
+jueshifan.com##div.wrap-b.pt-20.pb-40:nth-child(4) > div.wrap.clearfix.main.main-relative:last-child > div.left.fl:first-child > div.relcase.clearfix:nth-child(2) > div.relcase-right.fl:last-child > div.relcase-right-main.clearfix
+jueshifan.com##div.wrap-b.pt-20.pb-40:nth-child(4) > div.wrap.clearfix.main.main-relative:last-child > div.left.fl:first-child > div.guslike:nth-child(3)
+jueshifan.com##div.wrap-b.pt-20.pb-40:nth-child(4) > div.wrap.clearfix.main.main-relative:last-child > div.left.fl:first-child > div.arti:first-child > div.casedetail-bottom.clr:last-child > div.casedetail-share.flr > div.casedetail-share-main.fl.clearfix
+finance.sina.com.cn###article_content > div.article-content-left:first-child > div.blk-wxfollow.clearfix:nth-child(22)
+finance.sina.com.cn###article_content > div.article-content-left:first-child > div.app-viplive:nth-child(19) > div.cj-l-title:first-child
+backblaze.com###custom_html-4
+backblaze.com###dsq-app1827
+backblaze.com###genesis-content > div.adjacent-entry-pagination.pagination.boxed:nth-child(4) > div.pagination-next:last-child
+backblaze.com###genesis-sidebar-primary
+backblaze.com###ju_iframe_733890
