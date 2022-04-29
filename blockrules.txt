@@ -2554,3 +2554,36 @@ backblaze.com###dsq-app1827
 backblaze.com###genesis-content > div.adjacent-entry-pagination.pagination.boxed:nth-child(4) > div.pagination-next:last-child
 backblaze.com###genesis-sidebar-primary
 backblaze.com###ju_iframe_733890
+sina.com.cn##div.main:nth-child(19) > div.part-k.clearfix:nth-child(33) > div.part-k-l:first-child > div.mod-13.mod-02:first-child
+sina.com.cn##div.main:nth-child(19) > div.part-s.clearfix:nth-child(50)
+sina.com.cn##div.main:nth-child(19) > div.part-h.clearfix:nth-child(30)
+news.sina.com.cn###timeline_pc_tmpl > div > div.timeAxis_standard.timeAxis_skin_1_status:last-child
+news.sina.com.cn###article > div.wap_special:nth-child(49)
+sina.com.cn##div.main:nth-child(19) > div.part-q.clearfix:nth-child(43) > div.part-q-l:first-child > div.mod-02
+sina.com.cn##div.main:nth-child(19) > div.city-union:nth-child(53) > div.clearfix:first-child
+sina.com.cn##div.main:nth-child(19) > div.city-union:nth-child(53) > div.clearfix.c-hot:last-child
+163.com###js_index2017_wrap > div.ne_area.ne_index_area:nth-child(3) > div.cm_area.ns_area_comprehensive.cm_area_show:nth-child(16) > div.col_lm:first-child > div.clearfix:first-child > div.col_l:first-child > div.mt37:last-child > div.mod_channel.mod_dada
+163.com###js_index2017_wrap > div.ne_area.ne_index_area:nth-child(3) > div.cm_area.mt40.ns_area_synthesis.cm_area_show:nth-child(17) > div.col_lm:first-child > div.clearfix:first-child > div.col_c:last-child > div.mt37:last-child > div.mod_channel.mod_yunread
+163.com###js_index2017_wrap > div.ns_area_foot.cm_area_show:nth-child(6) > div.N-nav-bottom:first-child
+qq.com##div.global:nth-child(4) > div.layout.qq-gg.gg-1.cf:nth-child(4)
+qq.com##div.global:nth-child(4) > div.layout.qq-main.cf:nth-child(5) > div.col.col-2.fl:nth-child(2) > div.mod.m-topic:first-child
+qq.com##div.global:nth-child(4) > div.layout.qq-main.cf:nth-child(5) > div.col.col-3.fr:last-child
+fans.sports.qq.com##div.post-con:nth-child(5) > div.post-inc.clearfix:last-child > div.inc-relate.J_relate:last-child
+programiz.com##main.soft-bg.fixed-nav:nth-child(2) > div.contents:nth-child(7) > div.container:first-child > div.row:first-child > div.col-sm-12.d-md-flex > div.right-bar:last-child > div.block:last-child > section.vote-share-wrapper:nth-child(2)
+programiz.com##main.soft-bg.fixed-nav:nth-child(2) > div.contents:nth-child(7) > div.container:first-child > div.view.view-Python-reference-above-footer.view-id-Python_reference_above_footer.view-display-id-block.above-bottom-recommended-articles.view-dom-id-b970df7181e4b6b1b2deba310a9c44c1:last-child > div.view-content > div.row
+programiz.com##main.soft-bg.fixed-nav:nth-child(2) > div.contents:nth-child(7) > div.container:first-child > div.row:first-child > div.col-sm-12.d-md-flex > div.right-bar:last-child > div.block:last-child > div.pagination-area:first-child
+programiz.com##main.soft-bg.fixed-nav.has-notice-bar-top:nth-child(2) > header.main-nav.d-flex.flex-column.justify-content-center.main-nav--fixed:first-child > nav:last-child
+programiz.com##main.soft-bg.fixed-nav.has-notice-bar-top:nth-child(2) > header.main-nav.d-flex.flex-column.justify-content-center.main-nav--fixed:first-child > div.notice-bar-top.d-none.d-md-block:first-child
+delftstack.com##main.container:nth-child(9) > div.row > article.col-md-9.col-sm-9.main-content:last-child > section:nth-child(3) > li:nth-child(24)
+ent.163.com##div.N-nav-bottom:nth-child(13)
+ent.163.com##div.hotset:nth-child(5) > ul.hotset-cont:last-child > li.hotset-ads.cf:first-child
+163.com###js_index2017_wrap > div.ne_area.ne_index_area:nth-child(3) > div.cm_area.mt40.ns_area_synthesis.cm_area_show:nth-child(17) > div.col_lm:first-child > div.clearfix:first-child > div.col_c:last-child > div.mt38:nth-child(2) > div.mod_channel.mod_blog
+163.com###mod_news_tab > ul.tab_nav.clearfix:first-child
+qq.com##div.global:nth-child(4) > div.layout.channel2col.qq-channel2col.channel-num6.cf.loading:nth-child(9) > div.col.col-2.fl:first-child
+qq.com##div.global:nth-child(4) > div.layout.qq-channel3col.cf.loading:nth-child(16) > div.col.col-1:first-child
+qq.com##div.global:nth-child(4) > div.layout.qq-footer:nth-child(21)
+qq.com###elevator
+geeksforgeeks.org##div.header-main__wrapper:nth-child(3) > div.header-main__container:nth-child(3)
+k.sina.com.cn###article-bottom
+k.sina.com.cn##div.main-content.w1240:nth-child(3) > div.path-search:nth-child(2)
+k.sina.com.cn###tab_related
