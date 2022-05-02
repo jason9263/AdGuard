@@ -2587,3 +2587,26 @@ geeksforgeeks.org##div.header-main__wrapper:nth-child(3) > div.header-main__cont
 k.sina.com.cn###article-bottom
 k.sina.com.cn##div.main-content.w1240:nth-child(3) > div.path-search:nth-child(2)
 k.sina.com.cn###tab_related
+fashion.sina.com.cn##div.main:nth-child(17) > div.feed-right:last-child
+fashion.sina.com.cn##div.main:nth-child(17) > div.feed-left:nth-child(5)
+patch.com###__next > section.page__content:nth-child(8) > aside.page__side:last-child > div.styles_rightRail__gK_72
+patch.com###__next > header.header:nth-child(3) > nav.secondary-nav.secondary-nav--is-displayed:nth-child(3)
+patch.com###__next > section:nth-child(5) > a.styles_TopBanner__bBihA.styles_TopBanner--sponsored__XCLtw
+patch.com###main > section.block:last-child > div:last-child > div > section.styles_Section__tyZ33:nth-child(3) > section.styles_EventsRecircList__xZ2vh:nth-child(2)
+163.com##div.page_wrap:nth-child(3) > div.friend_links:nth-child(6) > div.link_list
+163.com##div.page_wrap:nth-child(3) > div.container.clearfix:nth-child(5) > div.main:nth-child(2) > div.post_top:first-child
+163.com##div.page_wrap:nth-child(3) > div.container.clearfix:nth-child(5) > div.top.clearfix:first-child
+163.com##div.page_wrap:nth-child(3) > div.friend_links:nth-child(6)
+labsnews.com###collections
+blog.csdn.net###content_views > p:nth-child(38)
+blog.csdn.net###content_views > p:nth-child(32)
+blog.csdn.net##div:nth-child(52) > div.csdn-side-toolbar
+tutorialspoint.com###header > div.site-message:first-child > a > img
+tutorialspoint.com##div.mui-container-fluid.content:nth-child(6) > div.mui-container > div.mui-col-md-6.tutorial-content:nth-child(2) > ul.toc.chapters:nth-child(14)
+tutorialspoint.com##div.mui-container-fluid.content:nth-child(6) > div.mui-container > div:first-child > div.mui-col-md-3.tutorial-toc > ul.toc.chapters.trending:nth-child(2)
+tutorialspoint.com##div.mui-container-fluid.content:nth-child(6) > div.mui-container > div:first-child > div.mui-col-md-3.tutorial-toc
+nytimes.com###story > div:nth-child(5) > div.css-17u79w7 > div.css-pzlm73:first-child
+nytimes.com###story > div:nth-child(5) > div.css-17u79w7
+163.com###js_index2017_wrap > div.ne_area.ne_index_area:nth-child(3) > div.cm_area.mt40.ns_area_synthesis.cm_area_show:nth-child(17) > div.col_lm:first-child > div.clearfix:first-child > div.col_l:first-child > div:first-child > div.mod_channel.mod_bohezhibo
+163.com###js_index2017_wrap > div.ne_area.ne_index_area:nth-child(3) > div.cm_area.mt40.ns_area_synthesis.cm_area_show:nth-child(17) > div.col_lm:first-child > div.clearfix:first-child > div.col_l:first-child > div.mt38:nth-child(2) > div.mod_channel.mod_game
+sina.com.cn##div.main:nth-child(19) > div.part-o:nth-child(40) > div.part-o-l:first-child > div.mod-27.mod-02:first-child
